@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fscontext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/providerutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

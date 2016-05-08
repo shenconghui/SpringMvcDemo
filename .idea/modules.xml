@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcDemo.iml" filepath="$PROJECT_DIR$/SpringMvcDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testATM/testATM.iml" filepath="$PROJECT_DIR$/testATM/testATM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testejbs/testejbs.iml" filepath="$PROJECT_DIR$/testejbs/testejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testidl/testidl.iml" filepath="$PROJECT_DIR$/testidl/testidl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjaf/testjaf.iml" filepath="$PROJECT_DIR$/testjaf/testjaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjdbc/testjdbc.iml" filepath="$PROJECT_DIR$/testjdbc/testjdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjms/testjms.iml" filepath="$PROJECT_DIR$/testjms/testjms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjndi/testjndi.iml" filepath="$PROJECT_DIR$/testjndi/testjndi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjsp/testjsp.iml" filepath="$PROJECT_DIR$/testjsp/testjsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjta/testjta.iml" filepath="$PROJECT_DIR$/testjta/testjta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testjts/testjts.iml" filepath="$PROJECT_DIR$/testjts/testjts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testmail/testmail.iml" filepath="$PROJECT_DIR$/testmail/testmail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testrmi/testrmi.iml" filepath="$PROJECT_DIR$/testrmi/testrmi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testservlet/testservlet.iml" filepath="$PROJECT_DIR$/testservlet/testservlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testxml/testxml.iml" filepath="$PROJECT_DIR$/testxml/testxml.iml" />
+    </modules>
+  </component>
+</project>
