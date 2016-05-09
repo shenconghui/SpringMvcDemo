@@ -81,7 +81,7 @@ public class EmpDao {
             System.out.println("驱动类无法找到！");
             throw new RuntimeException(e);
         } catch (SQLException e){
-            System.out.println("数据库访问异常！");
+            System.out.println("数据库访问异常 ！");
             throw new RuntimeException(e);
         }finally {
             try{
